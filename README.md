@@ -28,6 +28,7 @@
 
 <br>
 
-
+![](https://github.com/kickbell/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/kickbell/github-stats-transparent/blob/output/generated/languages.svg)
 
 </div>
